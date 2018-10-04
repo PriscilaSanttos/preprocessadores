@@ -67,3 +67,7 @@ Com parametros e valor padrão:<br/>
 **OBS: Quando criamos o mixin com valores padrão nos parâmetros, podemos chamar em qualquer ordem desde que a gente passe a chave junto <br/> Ex:**<br/> <code>@include flexbox($justify-content: center, $align-items: center, $flex-direction: column)</code>
 
 [Para mais exemplos de mixins](http://blog.caelum.com.br/10-mixins-sass-que-voce-deveria-usar-em-seus-projetos/)
+[Para mais exemplos de mixins](http://blog.caelum.com.br/10-mixins-sass-que-voce-deveria-usar-em-seus-projetos/)
+
+
+#### Modificação para conflito
